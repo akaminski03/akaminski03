@@ -1,6 +1,6 @@
 <h1>Hi, I'm Austin, an <a href="https://linkedin.com/in/austin-kaminski-b68305281">IT Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/akaminski03/osticket-prereqs)
